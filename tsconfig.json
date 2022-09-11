@@ -1,0 +1,13 @@
+{
+	"compilerOptions": {
+		"isolatedModules": true,
+		"module": "esnext",
+		"moduleResolution": "node",
+		"noEmit": true,
+		"resolveJsonModule": true,
+		"strict": true,
+		"target": "esnext",
+		"types": ["vite/client"]
+	},
+	"include": ["src/**/*.ts"]
+}
